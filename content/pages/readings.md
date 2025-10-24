@@ -15,7 +15,7 @@ There are many readings for this class. You are not expected to read every singl
 
 The textbook for this class is Debraj Ray's *Development Economics*. However, we will rely mostly on articles.
 
-\[Ray\] = Ray, Debraj. {{% resource_link "ead775a1-0f40-4f0f-bd82-2e4516014cac" "*Development Economics*" %}}. Princeton, NJ: Princeton University Press, 1998. ISBN: 9780691017068.
+\[Ray\] = Ray, Debraj. [*Development Economics*](http://press.princeton.edu/titles/6315.html). Princeton, NJ: Princeton University Press, 1998. ISBN: 9780691017068.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -41,7 +41,7 @@ e) "Aging and Death under a Dollar a Day": Banerjee and Duflo (2007)
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "f757468f-1788-453e-85b5-441592c98647" "World Development Report 2009" %}}
+[World Development Report 2009](http://documents.worldbank.org/curated/en/730971468139804495/World-development-report-2009-reshaping-economic-geography)
 
 \*Hartmann, Betsy, and James K. Boyce. "The Trials of a Poor Peasant Family." Chapter 12 in *A Quiet Violence: View from a Bangladesh Village* . Oakland, CA: Food First, 1985. ISBN: 9780935028164.
 
@@ -49,7 +49,7 @@ e) "Aging and Death under a Dollar a Day": Banerjee and Duflo (2007)
 
 ———. "What is Middle Class about the Middle Classes around the World?" *Journal of Economic Perspectives* 22, no. 2 (2008): 3-28.
 
-———. "{{% resource_link "5ad9433d-4a2d-4c0c-a4f1-f006718277e7" "Aging and Death Under a Dollar a Day" %}}." National Bureau of Economic Research Working Paper No. 13683, December 2007.
+———. "[Aging and Death Under a Dollar a Day](http://www.nber.org/papers/w13683)." National Bureau of Economic Research Working Paper No. 13683, December 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3-4
@@ -86,7 +86,7 @@ Duflo, E. "Grandmothers and Granddaughters: Old-Age Pensions and Intrahousehold 
 
 \*\[Ray\] chapter 8, especially sections 8.3 and 8.4.
 
-\*Thomas, D., E. Frankenberg, J. Friedman, J.-P. Habicht, N. Jones, C. McKelvey, G. Pelto, B. Sikoki, J. P. Smith, C. Sumantri, and W. Suriastini. "{{% resource_link "a91443e7-9476-4979-90b3-127f8f6d617f" "Causal Effect of Health on Labor Market Outcomes: Evidence from a Random Assignment Iron Supplementation Intervention" %}}." *California Center for Population Research On-Line Working Paper Series* (April 1, 2004). Paper CCPR-022-04.
+\*Thomas, D., E. Frankenberg, J. Friedman, J.-P. Habicht, N. Jones, C. McKelvey, G. Pelto, B. Sikoki, J. P. Smith, C. Sumantri, and W. Suriastini. "[Causal Effect of Health on Labor Market Outcomes: Evidence from a Random Assignment Iron Supplementation Intervention](http://repositories.cdlib.org/ccpr/olwp/CCPR-022-04/)." *California Center for Population Research On-Line Working Paper Series* (April 1, 2004). Paper CCPR-022-04.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5-8
@@ -108,11 +108,11 @@ d) An example that it is possible to improve the quality of education: Banerjee,
 
 \*Duflo, E. "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment." *American Economic Review* 91, no. 4 (2001): 795-813.
 
-Duflo, E., and R. Hanna. "{{% resource_link "62623195-966c-487f-a304-7ddf9f3c9bfc" "Monitoring Works: Getting Teachers to Come to School" %}}." National Bureau of Economic Research Working Paper No. 11880, December 2005.
+Duflo, E., and R. Hanna. "[Monitoring Works: Getting Teachers to Come to School](http://www.nber.org/papers/w11880)." National Bureau of Economic Research Working Paper No. 11880, December 2005.
 
-Glewwe, P., N. Ilias, and M. Kremer. "{{% resource_link "31615dd5-38db-4b1b-987c-3f428462a6e4" "Teacher Incentives" %}}." National Bureau of Economic Research Working Paper No. 9671, May 2003.
+Glewwe, P., N. Ilias, and M. Kremer. "[Teacher Incentives](http://www.nber.org/papers/w9671)." National Bureau of Economic Research Working Paper No. 9671, May 2003.
 
-Banerjee, A. V., S. Cole, E. Duflo, and L. Linden. "{{% resource_link "51e01209-7aa8-4c4d-b9e0-2cd594b9ff37" "Remedying Education: Evidence from Two Randomized Experiments in India" %}}." *Quarterly Journal of Economics* 122, no. 3 (August 2007): 1235-1264.
+Banerjee, A. V., S. Cole, E. Duflo, and L. Linden. "[Remedying Education: Evidence from Two Randomized Experiments in India](https://www.researchgate.net/publication/24091985_Remedying_Education_Evidence_from_Two_Randomized_Experiments_in_India)." *Quarterly Journal of Economics* 122, no. 3 (August 2007): 1235-1264.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9-12
@@ -148,7 +148,7 @@ f) Discrimination and the value of girls: Qian (2005)
 
 \[Ray\] pp. 279-288.
 
-Deaton, Angus. *The Analysis of Household Surveys: A Microeconometric Approach to Development Policy*. Washington, DC: World Bank, International Bank for Reconstruction and Development, 1997. ISBN: 9780801852541. \[{{% resource_link "0818dde5-de84-4e85-b52d-b2f1fae42c84" "Preview" %}} in Google Books\]
+Deaton, Angus. *The Analysis of Household Surveys: A Microeconometric Approach to Development Policy*. Washington, DC: World Bank, International Bank for Reconstruction and Development, 1997. ISBN: 9780801852541. \[[Preview](http://books.google.com/books?id=5Lp_p6bLD2IC&printsec=frontcover&source=gbs_navlinks_s#v=onepage&q=&f=false) in Google Books\]
 
 Rose, E. "Consumption Smoothing and Excess Female Mortality in Rural India." *Review of Economics and Statistics* 81, no. 1 (1999): 41-49.
 
@@ -176,7 +176,7 @@ Duflo, E. "Grandmothers and Granddaughters: Old-Age Pensions and Intrahousehold 
 
 \*Udry, C. "Gender, Agricultural Production, and the Theory of the Household." *Journal of Political Economy* 101, no. 5 (1996): 1010-1045.
 
-\*Duflo, E., and C. Udry. "{{% resource_link "97e0cbc6-4c61-463e-9f63-d04ef8189602" "Intrahousehold Resource Allocation in Cote d'Ivoire: Social Norms, Separate Accounts and Consumption Choices" %}}." National Bureau of Economic Research Working Paper No. 10498, May 2004.
+\*Duflo, E., and C. Udry. "[Intrahousehold Resource Allocation in Cote d'Ivoire: Social Norms, Separate Accounts and Consumption Choices](http://www.nber.org/papers/w10498)." National Bureau of Economic Research Working Paper No. 10498, May 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15-16
@@ -200,7 +200,7 @@ c) A successful limited land reform in India: Banerjee, Gertier, and Ghatak (20
 
 \[Ray\] chapter 12.
 
-\*Banerjee, A. V. "{{% resource_link "3961ae9f-1493-4a4d-895e-fed5b4cd43bd" "Land Reforms: Prospects and Strategies" %}}." Mimeograph, Massachusetts Institute of Technology, 1999.
+\*Banerjee, A. V. "[Land Reforms: Prospects and Strategies](http://ideas.repec.org/p/mit/worpap/99-24.html)." Mimeograph, Massachusetts Institute of Technology, 1999.
 
 Banerjee, Abhijit V., Paul Gertier, and Maitreesh Ghatak. "Empowerment and Efficiency: Tenancy Reform in West Bengal." *Journal of Political Economy* 110, no. 2 (April 2002): 239-280.
 
@@ -242,13 +242,13 @@ e) Mutual insurance in the village does not happen in the void. It depends on th
 
 \*\[Ray\] chapter 15.
 
-Deaton, Angus. *The Analysis of Household Surveys: A Microeconometric Approach to Development Policy*. Washington, DC: World Bank, International Bank for Reconstruction and Development, 1997, pp. 372-383. ISBN: 9780801852541. \[{{% resource_link "0818dde5-de84-4e85-b52d-b2f1fae42c84" "Preview" %}} in Google Books\]
+Deaton, Angus. *The Analysis of Household Surveys: A Microeconometric Approach to Development Policy*. Washington, DC: World Bank, International Bank for Reconstruction and Development, 1997, pp. 372-383. ISBN: 9780801852541. \[[Preview](http://books.google.com/books?id=5Lp_p6bLD2IC&printsec=frontcover&source=gbs_navlinks_s#v=onepage&q=&f=false) in Google Books\]
 
 Jensen, R. "Agricultural Volatility and Investments in Children." *American Economic Review* 90, no. 2 (2000): 399-405.
 
 \*Udry, C. "Credit Markets in Northern Nigeria: Credit as Insurance in a Rural Economy." *World Bank Economic Review* 4, no. 3 (1990): 251-269.
 
-Townsend, R. "{{% resource_link "d1fe7101-c726-4de2-bb57-1329773d0e67" "Financial Systems in Northern Thai Villages" %}}." *Quarterly Journal of Economics* 110, no. 4 (1995): 1011-1046.
+Townsend, R. "[Financial Systems in Northern Thai Villages](http://robertmtownsend.net/sites/default/files/files/papers/published/FinancialSystems1995.pdf)." *Quarterly Journal of Economics* 110, no. 4 (1995): 1011-1046.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22-23
@@ -268,7 +268,7 @@ c) An innovative form of lending: micro-credit: Morduch (1999)
 
 \[Ray\] chapter 14.
 
-\*Aleem, I. "{{% resource_link "de3aad22-6100-4ccd-b884-9755e3e43a1e" "Imperfect Information, Screening and the Costs of Informal Lending: A Study of a Rural Credit Market in Pakistan" %}}." *World Bank Economic Review* 4, no. 3 (September 1990): 329-349.
+\*Aleem, I. "[Imperfect Information, Screening and the Costs of Informal Lending: A Study of a Rural Credit Market in Pakistan](http://ideas.repec.org/a/oup/wbecrv/v4y1990i3p329-49.html)." *World Bank Economic Review* 4, no. 3 (September 1990): 329-349.
 
 Morduch, J. "The Microfinance Promise." *Journal of Economic Literature* 37, no. 4 (1999): 1569-1614.
 
@@ -300,7 +300,7 @@ c) Formal institutions
 
 {{< tdclose >}}{{< tdopen >}}
 
-Banerjee, A., L. Iyer, and R. Somanathan. "{{% resource_link "a4206fc9-e39a-44ac-b618-cd156744f944" "Public Action for Public Goods" %}}." National Bureau of Economic Research Working Paper No. 12911, February 2007.
+Banerjee, A., L. Iyer, and R. Somanathan. "[Public Action for Public Goods](http://www.nber.org/papers/w12911)." National Bureau of Economic Research Working Paper No. 12911, February 2007.
 
 Greif, A. "Contract Enforceability and Economic Institution in Early Trade: The Maghribi Traders Coalition." *American Economic Review* 83, no. 3 (1993): 525-548.
 
@@ -312,11 +312,11 @@ La Porta, R., F. L. de Silanes, A. Shleifer, and R. Vishny. "Law and Finance." *
 
 \*Acemoglu, D., S. Johnson, and J. Robinson. "The Colonial Origins of Comparative Development: An Empirical Investigation." *American Economic Review* 91, no. 5 (2001): 1369-1401.
 
-Banerjee, A. V., and L. Iyer. "{{% resource_link "d3d5e7b3-0101-44a8-a087-44ea7f45c073" "History, Institutions and Economic Performance: The Legacy of Colonial Land Tenure Systems in India" %}}." *American Economic Review* 95, no. 4 (2005): 1190-1213.
+Banerjee, A. V., and L. Iyer. "[History, Institutions and Economic Performance: The Legacy of Colonial Land Tenure Systems in India](http://ideas.repec.org/a/aea/aecrev/v95y2005i4p1190-1213.html)." *American Economic Review* 95, no. 4 (2005): 1190-1213.
 
-Iyer, L. "{{% resource_link "08b2fa8e-4693-4f14-a4cb-2068e424257f" "The Long-term Impact of Colonial Rule: Evidence from India" %}}." (PDF). Massachusetts Institute of Technology, 2002. 
+Iyer, L. "[The Long-term Impact of Colonial Rule: Evidence from India](https://web.mit.edu/14.75j/www/iyer.pdf)." (PDF). Massachusetts Institute of Technology, 2002. 
 
-Banerjee, A. V., and E. Duflo. "{{% resource_link "ebaabcc8-b60d-4e45-8e86-bf54b608cb22" "Reputation Effects and the Limits of Contracting: A Study of the Indian Software Industry" %}}." *Quarterly Journal of Economics* 115, no. 3 (2000): 989-1017.
+Banerjee, A. V., and E. Duflo. "[Reputation Effects and the Limits of Contracting: A Study of the Indian Software Industry](https://www.researchgate.net/publication/24091713_Reputation_Effects_And_The_Limits_Of_Contracting_A_Study_Of_The_Indian_Software_Industry)." *Quarterly Journal of Economics* 115, no. 3 (2000): 989-1017.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
@@ -332,12 +332,12 @@ c) Fighting Corruption: road in Indonesia: Olken (2005)
 
 {{< tdclose >}}{{< tdopen >}}
 
-Shleifer, A., and R. W. Vishny. "{{% resource_link "9d7a6a03-b421-4fe8-ae26-d05fb34cf57a" "Corruption" %}}." *The Quarterly Journal of Economics* 108, no. 3 (1993): 599-617.
+Shleifer, A., and R. W. Vishny. "[Corruption](https://scholar.harvard.edu/shleifer/publications/corruption)." *The Quarterly Journal of Economics* 108, no. 3 (1993): 599-617.
 
-Bertrand, M., S. Djankov, R. Hanna, and S. Mullainathan. "{{% resource_link "20141558-3a04-40b5-ad40-6f0bf89ec38d" "Does Corruption Produce Unsafe Drivers?" %}}" National Bureau of Economic Research Working Paper No. 12274, June 2006.
+Bertrand, M., S. Djankov, R. Hanna, and S. Mullainathan. "[Does Corruption Produce Unsafe Drivers?](http://www.nber.org/papers/w12274)" National Bureau of Economic Research Working Paper No. 12274, June 2006.
 
-Olken, B., and P. Barron. "{{% resource_link "1a9a7e5f-bf06-479f-8f01-f0a62936248b" "The Simple Economics of Extortion: Evidence from Trucking in Aceh" %}}." National Bureau of Economic Research Working Paper No. 13145, June 2007.
+Olken, B., and P. Barron. "[The Simple Economics of Extortion: Evidence from Trucking in Aceh](http://www.nber.org/papers/w13145)." National Bureau of Economic Research Working Paper No. 13145, June 2007.
 
-Olken, B. "{{% resource_link "2093dcc6-5045-4274-83fd-ac9011195746" "Monitoring Corruption: Evidence from a Field Experiment in Indonesia" %}}." National Bureau of Economic Research Working Paper No. 11753, November 2005.
+Olken, B. "[Monitoring Corruption: Evidence from a Field Experiment in Indonesia](http://www.nber.org/papers/w11753)." National Bureau of Economic Research Working Paper No. 11753, November 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
